@@ -1,6 +1,6 @@
 # Amazon-Clone
 
-A front-end project replicating the home page of Amazon, showcasing products and categories. This project uses HTML and CSS to create a visually appealing and responsive design.
+A front-end project replicating the Amazon home page using **HTML5** and **CSS3**. This project focuses on a clean, responsive design, showcasing a navigation bar, product grid, and footer.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -8,80 +8,31 @@ A front-end project replicating the home page of Amazon, showcasing products and
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
 ## Overview
 
-This project aims to replicate the home page of Amazon, providing a realistic and responsive design using only HTML and CSS. It includes a navigation bar, a product showcase, and a footer, designed to mimic the look and feel of the real Amazon website.
-
-## Screenshots
-
-### Home Page Overview
-
-![Home Page](/head.png)
-![Home Page](/Foot.png)
+This project is a static clone of the Amazon home page. It demonstrates the use of **HTML5** for semantic structure and **CSS3** for styling and responsiveness. The clone includes key elements like a navigation bar, product carousel, grid layout for product listings, and a footer.
 
 ## Features
 
-- Responsive layout for different screen sizes
-- Navigation bar with links to various categories
-- Product carousel showcasing featured products
-- Grid layout for product listings
-- Footer with useful links and information
+- Responsive design for various screen sizes (desktop, tablet, and mobile).
+- Navigation bar with category links and search functionality.
+- Product grid showcasing featured items.
+- Footer with quick links and additional information.
 
 ## Technologies Used
 
-- **HTML5**: Markup language used for creating the structure of the web page.
-- **CSS3**: Styling language used for designing the layout, colors, and responsiveness.
+- **HTML5**: For structuring the web page with semantic elements.
+- **CSS3**: For styling the page with responsive layouts, animations, and modern CSS techniques.
 
 ## Setup
 
-To view the project locally, follow these steps:
+To run this project locally:
 
-1. **Clone the repository**:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/SubratZi/Amazon-Clone.git
-
-2. **Navigate to the project directory**:
-
-    cd Amazon-Clone
-
-3. **Open index.html in your preferred web browser to view the home page**.
-
-No additional setup or dependencies are required as this project only involves static files.
-
-## Usage
-Explore the Amazon-Clone home page to see:
-
-1.The header with a search bar and navigation links.
-2.A carousel featuring popular products or promotions.
-3.A footer with links to information about the website, customer service, and more.
-
-Feel free to customize the content, styles, and layout to suit your preferences or add new features!
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. **Fork the repository**.
-
-2. **Create a new branch**:
-   ```bash
-   git checkout -b feature/SubratZi
-
-3. **Commit your changes**:
-    git commit -m 'Add some feature'
-
-4. **Push to the Branch**:
-    git push origin main
-
-5. **Open a Pull request**
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-For any inquiries, please contact parsurambaral42@gmail.com.
-
+   git clone https://github.com/Santhosh1470/Amazon-Clone.git
